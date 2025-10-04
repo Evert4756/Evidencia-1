@@ -25,7 +25,7 @@ INICIAR EN LA APP
 escribe lo siguiente (es como un CMD)
 
 2. git config --global user.name "Tu Nombre"
-git config --global user.email "tuemail@example.com"
+git config --global user.email "elihu@gmail.com"
 
 Crear un nuevo repositorio
 
@@ -40,5 +40,6 @@ Marca la opción Add a README file si quieres incluirlo desde el inicio.
 Haz clic en Create repository.
 
 y listo
+
 
 
