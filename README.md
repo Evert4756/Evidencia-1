@@ -41,5 +41,11 @@ Haz clic en Create repository.
 
 y listo
 
+CREDITOS
 
+Trabajo por Elihu el 04/10/2025. Mediante GitHub y para fines educativos 
+
+LICENCIA
+
+Este contenido se distribuye bajo la Licencia MIT, lo que significa que puedes usarlo, modificarlo y compartirlo libremente, siempre y cuando se reconozca al autor original.
 
